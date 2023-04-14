@@ -11,16 +11,9 @@ html{
     font-family: 'Poppins', sans-serif;
 }
 
-body{
-    background-color: #f8e0b3;
-    min-height: 100vh;
-    /*background: url('background.jpg') no-repeat;
-    background-size: cover;
-    */
-    background-position: center;
-}
-.header{
 
+
+.header{
     top: 0;
     left: 0;
     width: 100%;
@@ -71,7 +64,7 @@ body{
 
 
 .banner {
-    color:rgb(243, 115, 115);
+    color:rgb(94, 157, 216);
    padding:0;
    margin: 0;
    background: url('background.jpg') no-repeat;
@@ -92,28 +85,47 @@ body{
 .banner h1{
    
     font-size: 56px;
-    padding: 5.8em 0 0 0;
+    padding: 4em 0 0 0;
     margin: 0;
     clear: both;
 }
 
 .banner a{
 
-    background-color: rgb(243, 115, 115);
+    background-color: rgb(94, 157, 216);
 }
 
 .banner_btn {
-    color: rgb(243, 115, 115);
     text-decoration: none;
+    margin: 0em 0 50em 0;
     
 }
 
 .banner a p{
-    color:white;
+    color:rgb(255, 255, 255);
     background-color:rgb(94, 157, 216);
     width:180px;
     padding: 0.75em 0;
     margin-left: auto;
     margin-right: auto;
     border-radius: 100px;
+    font-weight: bold;
+
+}
+
+.row {
+    width:100%;
+
+}
+
+.row_cell{
+    color:rgb(94, 157, 216);
+    width: 200px;
+    height:200px;
+    display: inline-block;
+    text-align:center;
+    margin: 1em 5em;
+    border: solid 3px rgb(94, 157, 216);
+    border-radius: 25px;
+    font-size:15px;
 }
