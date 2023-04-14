@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins');
-
+html{
+    height: 100%;
+    width: 100%
+   
+}
 * {
     margin :0;
     padding: 0;
@@ -8,9 +12,7 @@
 }
 
 body{
-    width:1920px;
     background-color: #f8e0b3;
-    height:1080px;
     min-height: 100vh;
     /*background: url('background.jpg') no-repeat;
     background-size: cover;
@@ -33,7 +35,7 @@ body{
 /*justify-content: space-between; push to right keep follow to left
 */
 .logo {
-   font-size: 2.5em;
+   font-size: 1.5em;
    color: #fff;
    user-select: none; 
 }
@@ -67,3 +69,51 @@ body{
     transition: transform .5s;
 }
 
+
+.banner {
+    color:rgb(243, 115, 115);
+   padding:0;
+   margin: 0;
+   background: url('background.jpg') no-repeat;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   height: 100vh;
+   text-align: center;
+}
+
+.bannerline{
+    font-size:30px;
+    font-weight:100;
+    margin: 1em 0 1.5em 0;
+    padding: 0;
+}
+
+.banner h1{
+   
+    font-size: 56px;
+    padding: 5.8em 0 0 0;
+    margin: 0;
+    clear: both;
+}
+
+.banner a{
+
+    background-color: rgb(243, 115, 115);
+}
+
+.banner_btn {
+    color: rgb(243, 115, 115);
+    text-decoration: none;
+    
+}
+
+.banner a p{
+    color:white;
+    background-color:rgb(94, 157, 216);
+    width:180px;
+    padding: 0.75em 0;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
