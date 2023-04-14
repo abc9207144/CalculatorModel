@@ -129,3 +129,9 @@ html{
     border-radius: 25px;
     font-size:15px;
 }
+
+.row_cell img{
+    width:100px;
+    height: auto;
+    margin: 2em 0 0 0;
+}
