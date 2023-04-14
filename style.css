@@ -1,3 +1,4 @@
+@import url(basecalculatorstyle.css);
 @import url('https://fonts.googleapis.com/css2?family=Poppins');
 html{
     height: 100%;
@@ -11,7 +12,14 @@ html{
     font-family: 'Poppins', sans-serif;
 }
 
-
+body{
+    background: url('img/background.jpg') no-repeat;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    text-align: center;
+}
 
 .header{
     top: 0;
@@ -67,12 +75,7 @@ html{
     color:rgb(94, 157, 216);
    padding:0;
    margin: 0;
-   background: url('img/background.jpg') no-repeat;
-   background-repeat: no-repeat;
-   background-size: cover;
-   background-position: center;
-   height: 100vh;
-   text-align: center;
+
 }
 
 .bannerline{
