@@ -67,7 +67,7 @@ html{
     color:rgb(94, 157, 216);
    padding:0;
    margin: 0;
-   background: url('background.jpg') no-repeat;
+   background: url('img/background.jpg') no-repeat;
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
@@ -113,10 +113,15 @@ html{
 
 }
 
+.banner a p:hover {
+    color:purple;
+}
 .row {
     width:100%;
 
 }
+
+
 
 .row_cell{
     color:rgb(94, 157, 216);
