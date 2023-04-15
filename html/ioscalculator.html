@@ -6,42 +6,42 @@
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>iPhone Calculator</title>
-  <link rel="stylesheet" href="../css/style.css">
+  <link rel ="stylesheet" href="../css/style.css">
 </head>
 <body>
   <div class="header">
     <h2 class="logo">Calculator Model Online</h2>
 <nav class="navigation">
-  <a href="home.html">Home</a>
-  <a href="basecalculator.html">Base Calculator</a>
-  <a href="ioscalculator.html">ios Calculator</a>
-  <a href="sccalculator.html">Scientific Calculator</a>
+    <a href="home.html">Home</a>
+    <a href="basecalculator.html">Base Calculator</a>
+    <a href="ioscalculator.html">ios Calculator</a>
+    <a href="sccalculator.html">Scientific Calculator</a>
 </nav>
 </div>
-<div class="ioscontainer">
-  <div class="ioscalculator">
-    <div class="display">0</div>
-    <div class="buttons-container">
-      <div class="button function clear">AC</div>
-      <div class="button function plusmn">±</div>
-      <div class="button function percentange">%</div>
-      <div class="button operator divide">÷</div>
-      <div class="button number7">7</div>
-      <div class="button number8">8</div>
-      <div class="button number9">9</div>
-      <div class="button operator multiple">×</div>
-      <div class="button number4">4</div>
-      <div class="button number5">5</div>
-      <div class="button number6">6</div>
-      <div class="button operator subtract">−</div>
-      <div class="button number1">1</div>
-      <div class="button number2">2</div>
-      <div class="button number3">3</div>
-      <div class="button operator add">+</div>
-      <div class="button number0">0</div>
-      <div class="button decimal">.</div>
-      <div class="button operator equal">=</div>
-</div>
+  <div class="ioscontainer">
+    <form name="mf">
+      <input type ="text" name="output">
+      <button type ="button" value="AC" class="ac" onclick="remove()">AC</button>
+      <button type ="button" value="pm" class="operator"onclick="pm()">±</button>
+      <button type ="button" value="%" class="operator"onclick="present()">%</button>
+      <button type="button"  value="/" class="operator"onclick="number(value)">/</button>
+      <button type="button"  value="7" class="iosnumber" onclick="number(value)">7</button>
+      <button type="button"  value="8" class="iosnumber" onclick="number(value)">8</button>
+      <button type="button"  value="9" class="iosnumber" onclick="number(value)">9</button>
+      <button type="button"  value="*" class="operator"onclick="number(value)">x</button>
+      <button type="button"  value="4" class="iosnumber" onclick="number(value)">4</button>
+      <button type="button"  value="5" class="iosnumber" onclick="number(value)">5</button>
+      <button type="button"  value="6" class="iosnumber" onclick="number(value)">6</button>
+      <button type="button"  value="-" class="operator" onclick="number(value)">-</button>
+      <button type="button"  value="1" class="iosnumber" onclick="number(value)">1</button>
+      <button type="button"  value="2" class="iosnumber" onclick="number(value)">2</button>
+      <button type="button"  value="3" class="iosnumber" onclick="number(value)">3</button>
+      <button type="button"  value="+" class="operator" onclick="number(value)">+</button>
+      <button type="button"  value="0" class="iosnumber z" onclick="number(value)">0</button>
+      <button type="button"  value="." class="operator" onclick="number(value)">.</button>
+      <button type="button"  value="=" class="operator"onclick="equal()">=</button>
+    </form>
+  </div>
 <script src="../js/app.js"></script>
 </body>
 </html>

@@ -13,12 +13,11 @@
   
 button.clear {
     background: #FF5722;
-    color: #fff
-    ;
+    color: #fff;
 }
 .sccontainer table {
     background: rgb(214, 214, 214);
-    padding: 70px 50px;
+    padding: 20px 20px;
     text-align: center;
     border-style:solid;
     border-color:black;
@@ -62,7 +61,6 @@ button.clear {
     border-radius: 6px;
     cursor: pointer;
 }
-
 .sccalculator button:hover{
 	background: #fc9c7f;
 }
