@@ -1,13 +1,16 @@
+function toRadians (angle) {
+	return angle * (Math.PI / 180);
+  }
 function sin(){
-	document.calculator.output.value=Math.sin(document.calculator.output.value);
+	document.calculator.output.value=Math.sin(toRadians(document.calculator.output.value));
 	}
 
 	function cos(){
-	document.calculator.output.value=Math.cos(document.calculator.output.value);
+	document.calculator.output.value=Math.cos(toRadians(document.calculator.output.value));
 	}
 
 	function tan(){
-	document.calculator.output.value=Math.tan(document.calculator.output.value);
+	document.calculator.output.value=Math.tan(toRadians(document.calculator.output.value));
 	}
 
 	function BACKSPC(){
