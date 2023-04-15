@@ -5,7 +5,7 @@
     place-items: center;
 }
 
-.calculator {
+.basecalculator {
     position: relative;
     height: auto;
     width: auto;
@@ -83,60 +83,60 @@
 
 /* light theme */
 
-.calculator {
+.basecalculator {
     background-color: #fff;
 }
 
-.calculator #display {
+.basecalculator #display {
     color: #000000;
 }
 
-.calculator button#clear {
+.basecalculator button#clear {
     background-color: #4ee9fd;
     color: #ff0000;
 }
 
-.calculator button.btn-number {
+.basecalculator button.btn-number {
     background-color: #bdbfc0;
     color: #000000;
 }
 
-.calculator button.btn-operator {
+.basecalculator button.btn-operator {
     background-color: #f7b2cc;
     color: #000000;
   }
   
-  .calculator button.btn-equal {
+  .basecalculator button.btn-equal {
     background-color: #b3e9dc;
     color: #000;
   }
 
   /* dark theme */
 
-  .calculator.dark {
+  .basecalculator.dark {
     background-color: #071318;
   }
 
-  .calculator.dark #display {
+  .basecalculator.dark #display {
     color: #f8fafb;
   }
 
-  .calculator.dark button#clear {
+  .basecalculator.dark button#clear {
     background-color: #ca2e55;
     color: #ffffff;
   }
 
-  .calculator.dark button.btn-number {
+  .basecalculator.dark button.btn-number {
     background-color: #1b2f38;
     color: #f8fafb;
   }
 
-  .calculator.dark button.btn-operator {
+  .basecalculator.dark button.btn-operator {
     background-color: #4192b8;
     color: #fffaff;
   }
   
-  .calculator.dark button.btn-equal {
+  .basecalculator.dark button.btn-equal {
     background-color: #7ebe82;
     color: #ffffff;
   }
