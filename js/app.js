@@ -10,7 +10,7 @@ function remove(){
      }
 
      function per() {
-        document.mf.output.value=document.mf.output.value/100;1
+        document.mf.output.value=document.mf.output.value/100;
      }
 /*function per() {
     let inputNum = parseFloat(document.mf.output.value);
