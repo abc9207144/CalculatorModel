@@ -1,4 +1,5 @@
 @import url(basecalculatorstyle.css);
+@import url(ioscalculator.css);
 @import url('https://fonts.googleapis.com/css2?family=Poppins');
 html{
     height: 100%;
@@ -13,7 +14,7 @@ html{
 }
 
 body{
-    background: url('img/background.jpg') no-repeat;
+    background: url('../img/background.jpg') no-repeat;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
