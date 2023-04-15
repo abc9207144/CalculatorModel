@@ -1,5 +1,6 @@
 @import url(basecalculatorstyle.css);
 @import url(ioscalculator.css);
+@import url(sc.css);
 @import url('https://fonts.googleapis.com/css2?family=Poppins');
 html{
     height: 100%;
