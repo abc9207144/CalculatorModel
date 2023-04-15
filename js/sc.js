@@ -11,7 +11,7 @@ function sin(){
 	}
 
 	function BACKSPC(){
-	var a = document.calculator.result.value;
+	var a = document.calculator.output.value;
 	document.calculator.output.value = a.substr(0, a.length-1);
 	}
 
@@ -43,4 +43,6 @@ function sin(){
 	document.calculator.output.value=eval(document.calculator.output.value);
 	}
 
-	
+	function per() {
+		document.calculator.output.value=document.calculator.output.value/100;
+	}

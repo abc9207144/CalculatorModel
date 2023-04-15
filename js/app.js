@@ -9,10 +9,16 @@ function remove(){
     document.mf.output.value=eval(document.mf.output.value);
      }
 
-function present(){
-    document.mf.output.value = document.mf.output.value/10;
+     function per() {
+        document.mf.output.value=document.mf.output.value/100;1
+     }
+/*function per() {
+    let inputNum = parseFloat(document.mf.output.value);
+    let decimalPlaces = Math.max(0, Math.ceil(Math.log10(inputNum + 1)));
+    let result = (inputNum / 100).toFixed(decimalPlaces);
+    document.mf.output.value = result;
 }
-
+*/
 
 function pm(){
     if(document.mf.output.value>0){

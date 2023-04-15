@@ -55,3 +55,11 @@
   background-color:#333333;
   color:white;
 }
+
+.ioscontainer form button[type="button"]:hover{
+  color:cornflowerblue;
+}
+
+.ioscontainer form button[type="button"]:active{
+  color:rgb(255, 255, 255);
+}
