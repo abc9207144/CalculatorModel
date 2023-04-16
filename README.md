@@ -31,6 +31,13 @@ before the programming and design, we analysis for the goal the risk, so we foun
 # shedule
 ![image](https://user-images.githubusercontent.com/126055518/232263567-611dfc8f-bcd4-4bd9-81d1-07153fbaab44.png)
 
+# member
+Richard lam (p2104691) major software development (coding and readme)
+Larry                  readme and assistance 
+
+# current status
+the  application are not yet host at server, can just run at local environment. the web now include index(homepage), base calculator ,ios model calculator and Scientific Calculator,those calculator are  include the base function of calculator . the Scientific Calculator include some additional math function example like (sin cos tan csc sec cot etc.)
+
 # Future plan
 For the future plan, we Consider adding additional calculators to my website to increase its functionality and usefulness that we might add calculators related to finance, health, fitness, currency or any other area that is relevant to.
 
