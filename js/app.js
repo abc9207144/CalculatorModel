@@ -28,3 +28,9 @@ function pm(){
         document.mf.output.value=Math.abs(document.mf.output.value);
     }
 }
+var music = new Audio('../sound/soundeffect.mp3');
+music.volume = 0.2;
+function clicksound(){       
+        music.play();
+        }
+

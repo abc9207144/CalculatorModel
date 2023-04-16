@@ -65,4 +65,8 @@ function sin(){
 	function per() {
 		document.calculator.output.value=document.calculator.output.value/100;
 	}
-
+	var music = new Audio('../sound/soundeffect.mp3');
+	music.volume = 0.2;
+	function clicksound(){		
+			music.play();
+			}
