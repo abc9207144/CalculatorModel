@@ -1,7 +1,6 @@
 
 
 .ioscontainer {
-  
   border: 0;
   width: 400px;
   height:650px;
@@ -14,7 +13,6 @@
   top: 110px;
 }
 .ioscontainer form input[type="text"]{
-  
   width:95%;
   padding: 10% 3%;
   background-color:black;
@@ -26,7 +24,6 @@
 }
 
 .ioscontainer form button[type="button"].ac{
-  
   border-top-right-radius: 25px;
   border-top-left-radius: 25px;
   border-bottom-left-radius: 25px;
