@@ -1,4 +1,7 @@
-# Pictures if multi calculator model online 
+#multi calculator model online 
+
+
+# Pictures of multi calculator model online 
 The home page
 ![螢幕擷取畫面 2023-04-16 105519](https://user-images.githubusercontent.com/126055518/232263772-27008acb-4bb8-42cd-bc61-a044d8957bbe.png)
 the let's start button will direct you to basecalculator
@@ -44,3 +47,9 @@ Mobile optimization: for mobile devices. More and more people are accessing the 
 Analytics: Use analytics tools to track and record the usage of calculators. This will give me the insights into which calculators are being used the most, and which ones could be improved or removed.
 
 Feedback: implement the feedback function and Encourage users to leave feedback on website and use that feedback to make improvements.
+
+# demo
+https://youtu.be/LhI-wlNK5t0
+
+# environment
+i code with html css and javascript,the coding environment is code by viusal studio code, base on the application is code by html css javascript, so there are Hardware requirements needed
