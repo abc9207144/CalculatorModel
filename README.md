@@ -56,7 +56,7 @@ Analytics: Use analytics tools to track and record the usage of calculators. Thi
 Feedback: implement the feedback function and Encourage users to leave feedback on website and use that feedback to make improvements.
 
 # demo
-https://youtu.be/LhI-wlNK5t0
+https://youtu.be/Rh_FxojMrFg
 
 # environment
 i code with html css and javascript,the coding environment is code by viusal studio code, base on the application is code by html css javascript, so there are Hardware requirements needed
