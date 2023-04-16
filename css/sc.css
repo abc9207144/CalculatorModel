@@ -3,7 +3,7 @@
     display: flex;
     justify-content: center;   
     align-items: center;   
-    padding:70px
+    padding:30px
 }
 
 .sccalculator {
@@ -35,7 +35,7 @@ button.clear {
 }
 
 .result  {
-    width: 450px;
+    width: 990px;
     height: 100px;
     padding: 10px 20px;
     font-size: 35px;
@@ -51,8 +51,8 @@ button.clear {
 
 .sccalculator button {
     padding: 10px 20px;
-    width: 100px;
-    height: 60px;
+    width: 250px;
+    height: 50px;
     margin-bottom: 20px;
     font-size: 26px;
     font-weight: bold;
