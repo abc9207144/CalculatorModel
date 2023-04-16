@@ -32,7 +32,7 @@ before the programming and design, we analysis for the goal the risk, so we foun
 ![image](https://user-images.githubusercontent.com/126055518/232263567-611dfc8f-bcd4-4bd9-81d1-07153fbaab44.png)
 
 # member
-Richard lam (p2104691) major software development (coding and readme)
+Richard lam (p2104691) major software development (coding and readme)  
 Larry                  readme and assistance 
 
 # current status
