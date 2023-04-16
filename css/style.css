@@ -48,7 +48,6 @@ body{
     font-size: 1.2em;
     color: #fff;
     text-decoration: none;
-
     font-weight: 500;
     margin-left: 40px;
     
@@ -88,7 +87,6 @@ body{
 }
 
 .banner h1{
-   
     font-size: 56px;
     padding: 4em 0 0 0;
     margin: 0;
@@ -96,14 +94,12 @@ body{
 }
 
 .banner a{
-
     background-color: rgb(94, 157, 216);
 }
 
 .banner_btn {
     text-decoration: none;
     margin: 0em 0 50em 0;
-    
 }
 
 .banner a p{
