@@ -10,7 +10,7 @@ We will deploy the web application to a server or hosting platform so that it ca
 In the final we will Continuously monitor and maintain  website to ensure that it remains secure and up-to-date.  may need to update software components, fix bugs or errors, or add new features over time.
 # algorithm
 before the programming and design, we analysis for the goal the risk, so we found that there are not that much calculator model in the internet, and their model and UI is already out dated, so we confirm our application software that can aim to market. So, After analysis we make the first version for the client to test are the model fit their requirements and expectations. When the program process, we declare which the type of the code and separate it into different folder, because we need to categorize the template, calculator model, style files, because if we don’t categorize it, it will increase the chance of having bugs and errors, and it also can easy to adding new model into our software to keep software maintenance and adding new feature. 
-#shedule
+# shedule
 ![image](https://user-images.githubusercontent.com/126055518/232263567-611dfc8f-bcd4-4bd9-81d1-07153fbaab44.png)
 
 # Future plan
