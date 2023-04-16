@@ -1,3 +1,17 @@
+# Pictures if multi calculator model online 
+![螢幕擷取畫面 2023-04-16 105519](https://user-images.githubusercontent.com/126055518/232263772-27008acb-4bb8-42cd-bc61-a044d8957bbe.png)
+The home page
+the let's start button will direct you to basecalculator
+
+![image](https://user-images.githubusercontent.com/126055518/232263798-3dc76c9a-011f-4f25-bb0e-816634125b58.png)
+the base calculator
+
+![image](https://user-images.githubusercontent.com/126055518/232263804-9ff13cd6-36bd-468a-9b9a-05b9c4360b96.png)
+the ios calculator
+
+![image](https://user-images.githubusercontent.com/126055518/232263811-b76ed88c-edb4-40b7-b271-e158860ef44c.png)
+Scientific Calculator
+
 # development method of Multi calculator online
 Our software are using agile development to develop all the processing and schedule ,the reason why we choose agile method is because agile the first aim is for client and make sure the calculator needs are fit to market client, and let the customers to test and launch in the process to test our software can it fit their requirements and expectations, and the agile development is flexible, allowing you to adapt and change your plans as needed. This is especially useful for multi calculator websites, where you may discover new user needs or features as you progress, agile development follows an iterative approach, meaning you can develop the website in stages, with each iteration building on the previous one. This allows you to refine and improve the product as you go along, based on feedback and testing. And the mostly important reason is Agile allows for faster development cycles, meaning you can get your website to market faster. This is important for multi calculator websites, where users may be looking for a quick and efficient tool.
 
