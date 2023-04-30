@@ -2,9 +2,6 @@
 
 
 # Pictures of multi calculator model online 
-The home page
-![螢幕擷取畫面 2023-04-16 105519](https://user-images.githubusercontent.com/126055518/232263772-27008acb-4bb8-42cd-bc61-a044d8957bbe.png)
-the let's start button will direct you to basecalculator
 
 the base calculator
 ![image](https://user-images.githubusercontent.com/126055518/232263798-3dc76c9a-011f-4f25-bb0e-816634125b58.png)
