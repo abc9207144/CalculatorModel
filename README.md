@@ -61,9 +61,9 @@ https://youtu.be/Rh_FxojMrFg
 # environment
   - language:javascript , Html , Css
   - OS requirements:
-    - Windows
+    - Windows:
       Windows 7 and later are supported, older operating systems are not supported (and do not work).
       Both x86 and amd64 (x64) binaries are provided for Windows. Please note, the ARM version of Windows is not supported for now.
-   - Mac
+    - Mac
       Only 64bit binaries are provided for macOS, and the minimum macOS version supported is macOS 10.10 (Yosemite).
-   - Linux
+    - Linux
