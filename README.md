@@ -1,5 +1,6 @@
 # multi calculator model online 
-
+multi calculator model online having a multi calculator model in application or website , which mean it can be used on mobile phone, mac, windows,linux,which
+all the plaform are covered
 
 # Pictures of multi calculator model online 
 The home page
