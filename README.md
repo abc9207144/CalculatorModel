@@ -59,4 +59,11 @@ Feedback: implement the feedback function and Encourage users to leave feedback 
 https://youtu.be/Rh_FxojMrFg
 
 # environment
-i code with html css and javascript,the coding environment is code by viusal studio code, base on the application is code by html css javascript, so there are Hardware requirements needed
+  - language:javascript , Html , Css
+> - OS requirements
+    - Windows
+      Windows 7 and later are supported, older operating systems are not supported (and do not work).
+      Both x86 and amd64 (x64) binaries are provided for Windows. Please note, the ARM version of Windows is not supported for now.
+    -Mac
+Only 64bit binaries are provided for macOS, and the minimum macOS version supported is macOS 10.10 (Yosemite).
+Linux
