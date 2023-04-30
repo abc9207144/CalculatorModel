@@ -2,6 +2,9 @@
 
 
 # Pictures of multi calculator model online 
+The home page
+![螢幕擷取畫面 2023-04-16 105519](https://user-images.githubusercontent.com/126055518/232263772-27008acb-4bb8-42cd-bc61-a044d8957bbe.png)
+the let's start button will direct you to basecalculator
 
 the base calculator
 ![image](https://user-images.githubusercontent.com/126055518/232263798-3dc76c9a-011f-4f25-bb0e-816634125b58.png)
@@ -30,7 +33,7 @@ before the programming and design, we analysis for the goal the risk, so we foun
 
 # member
 Richard lam (p2104691) major software development (coding and readme)  
-Larry       (p2104634)       assistance           (readme)        
+Larry                  readme and assistance 
 
 # current status
 the  application are not yet host at server, can just run at local environment. the web now include index(homepage), base calculator ,ios model calculator and Scientific Calculator,those calculator are  include the base function of calculator . the Scientific Calculator include some additional math function example like (sin cos tan csc sec cot etc.)
