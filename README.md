@@ -69,3 +69,7 @@ https://youtu.be/Rh_FxojMrFg
       Only 64bit binaries are provided for macOS, and the minimum macOS version supported is macOS 10.10 (Yosemite).  
      Linux:  
       The prebuilt ia32(i686) and x64(amd64) binaries of Electron are built on Ubuntu 12.04, the arm binary is built against ARM v7 with hard-float ABI and NEON for    Debian Wheezy.  
+
+# third-party plaform
+[NODEJS](https://nodejs.org/en)
+[electron](https://github.com/electron/electron)
