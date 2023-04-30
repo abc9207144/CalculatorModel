@@ -33,7 +33,7 @@ before the programming and design, we analysis for the goal the risk, so we foun
 
 # member
 Richard lam (p2104691) major software development (coding and readme)  
-Larry                  readme and assistance 
+Larry       (p2104634)       assistance           (readme)        
 
 # current status
 the  application are not yet host at server, can just run at local environment. the web now include index(homepage), base calculator ,ios model calculator and Scientific Calculator,those calculator are  include the base function of calculator . the Scientific Calculator include some additional math function example like (sin cos tan csc sec cot etc.)
